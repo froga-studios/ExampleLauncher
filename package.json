@@ -1,0 +1,22 @@
+{
+  "name": "examplelauncherelectron",
+  "version": "1.0.0",
+  "description": "Exo's Example Launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froga-studios/ExampleLauncher.git"
+  },
+  "author": "Exo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froga-studios/ExampleLauncher/issues"
+  },
+  "homepage": "https://github.com/froga-studios/ExampleLauncher#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
